@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+    <target-gtk-version>2.12</target-gtk-version>
+  </configuration>
+  <import>
+    <widget-library name="glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <widget-library name="../bin/Debug/IdeoDict.Gtk.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="MainWindow" design-size="465 341">
+    <action-group name="Default">
+      <action id="FileAction">
+        <property name="Type">Action</property>
+        <property name="Accelerator">&lt;Alt&gt;f</property>
+        <property name="Label" translatable="yes">_File</property>
+        <property name="ShortLabel" translatable="yes">File</property>
+      </action>
+      <action id="ImportAction">
+        <property name="Type">Action</property>
+        <property name="Accelerator">&lt;Alt&gt;i</property>
+        <property name="Label" translatable="yes">_Import</property>
+        <property name="ShortLabel" translatable="yes">Import</property>
+      </action>
+      <action id="ExportAction">
+        <property name="Type">Action</property>
+        <property name="Accelerator">&lt;Alt&gt;e</property>
+        <property name="Label" translatable="yes">_Export</property>
+        <property name="ShortLabel" translatable="yes">Export</property>
+      </action>
+      <action id="CloseAction">
+        <property name="Type">Action</property>
+        <property name="Accelerator">&lt;Alt&gt;c</property>
+        <property name="Label" translatable="yes">_Close</property>
+        <property name="ShortLabel" translatable="yes">Close</property>
+        <signal name="Activated" handler="OnClose" />
+      </action>
+      <action id="EditAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">_Edit</property>
+        <property name="ShortLabel" translatable="yes">_Edit</property>
+      </action>
+      <action id="ViewAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">_View</property>
+        <property name="ShortLabel" translatable="yes">_View</property>
+      </action>
+      <action id="HelpAction">
+        <property name="Type">Action</property>
+        <property name="Accelerator">&lt;Alt&gt;h</property>
+        <property name="Label" translatable="yes">_Help</property>
+        <property name="ShortLabel" translatable="yes">_Help</property>
+      </action>
+      <action id="AboutAction">
+        <property name="Type">Action</property>
+        <property name="Label" translatable="yes">_About</property>
+        <property name="ShortLabel" translatable="yes">_About</property>
+      </action>
+    </action-group>
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">IdeoDict</property>
+    <property name="Icon">stock:stock_book_green Menu</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <property name="DefaultWidth">420</property>
+    <property name="DefaultHeight">360</property>
+    <signal name="DeleteEvent" handler="OnDeleteEvent" />
+    <child>
+      <widget class="Gtk.VBox" id="vbox1">
+        <property name="MemberName" />
+        <property name="Spacing">6</property>
+        <child>
+          <widget class="Gtk.HBox" id="hbox1">
+            <property name="MemberName" />
+            <property name="Spacing">6</property>
+            <child>
+              <widget class="Gtk.MenuBar" id="menubar2">
+                <property name="MemberName" />
+                <node name="__gtksharp_133_Stetic_Editor_ActionMenuBar" type="Menubar">
+                  <node type="Menu" action="FileAction">
+                    <node type="Menuitem" action="ImportAction" />
+                    <node type="Menuitem" action="ExportAction" />
+                    <node type="Menuitem" action="CloseAction" />
+                  </node>
+                  <node type="Menu" action="EditAction" />
+                  <node type="Menu" action="ViewAction" />
+                  <node type="Menu" action="HelpAction">
+                    <node type="Menuitem" action="AboutAction" />
+                  </node>
+                </node>
+              </widget>
+              <packing>
+                <property name="Position">0</property>
+                <property name="AutoSize">True</property>
+                <property name="Expand">False</property>
+                <property name="Fill">False</property>
+              </packing>
+            </child>
+            <child>
+              <widget class="Gtk.ComboBoxEntry" id="comboboxentry1">
+                <property name="MemberName" />
+                <property name="IsTextCombo">True</property>
+                <property name="Items" translatable="yes" />
+              </widget>
+              <packing>
+                <property name="Position">1</property>
+                <property name="AutoSize">True</property>
+                <property name="Expand">False</property>
+                <property name="Fill">False</property>
+              </packing>
+            </child>
+            <child>
+              <placeholder />
+            </child>
+          </widget>
+          <packing>
+            <property name="Position">0</property>
+            <property name="AutoSize">True</property>
+            <property name="Expand">False</property>
+            <property name="Fill">False</property>
+          </packing>
+        </child>
+        <child>
+          <placeholder />
+        </child>
+      </widget>
+    </child>
+  </widget>
+</stetic-interface>

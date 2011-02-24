@@ -1,0 +1,8 @@
+{
+	Type:"Dictionary",
+	Title: "some book",
+	Description: null,
+	TocCols:{Start:3,End:5},
+	BodyCols:{Start:6,End:7},
+	Indices:[{Many2One:false,Col:2},{Many2One:true,Col:1}]
+}
