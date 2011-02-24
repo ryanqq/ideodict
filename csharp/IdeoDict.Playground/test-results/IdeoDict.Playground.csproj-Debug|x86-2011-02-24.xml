@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <UnitTestResult>
+      <TestDate>2011-02-24T02:13:35</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>3</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-02-24T02:14:19</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>3</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-02-24T02:32:28</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>3</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-02-24T02:38:45</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>3</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-02-24T02:50:28</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>3</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-02-24T02:53:01</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>3</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-02-24T02:56:01</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>3</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+    <UnitTestResult>
+      <TestDate>2011-02-24T02:56:58</TestDate>
+      <Status>Failure</Status>
+      <TotalFailures>3</TotalFailures>
+      <TotalSuccess>0</TotalSuccess>
+      <TotalIgnored>0</TotalIgnored>
+      <Time />
+      <Message>Child test failed</Message>
+    </UnitTestResult>
+  </Results>
+  <Tests>
+    <TestRecord Name="HowTo">
+      <Results>
+        <UnitTestResult>
+          <TestDate>2011-02-24T02:13:35</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>3</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-02-24T02:14:19</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>3</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-02-24T02:32:28</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>3</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-02-24T02:38:45</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>3</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-02-24T02:50:28</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>3</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-02-24T02:53:01</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>3</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-02-24T02:56:01</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>3</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+        <UnitTestResult>
+          <TestDate>2011-02-24T02:56:58</TestDate>
+          <Status>Failure</Status>
+          <TotalFailures>3</TotalFailures>
+          <TotalSuccess>0</TotalSuccess>
+          <TotalIgnored>0</TotalIgnored>
+          <Time />
+          <Message>Child test failed</Message>
+        </UnitTestResult>
+      </Results>
+      <Tests>
+        <TestRecord Name="Data">
+          <Results>
+            <UnitTestResult>
+              <TestDate>2011-02-24T02:13:35</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>3</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-02-24T02:14:19</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>3</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-02-24T02:32:28</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>3</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-02-24T02:38:45</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>3</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-02-24T02:50:28</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>3</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-02-24T02:53:01</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>3</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-02-24T02:56:01</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>3</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+            <UnitTestResult>
+              <TestDate>2011-02-24T02:56:58</TestDate>
+              <Status>Failure</Status>
+              <TotalFailures>3</TotalFailures>
+              <TotalSuccess>0</TotalSuccess>
+              <TotalIgnored>0</TotalIgnored>
+              <Time />
+              <Message>Child test failed</Message>
+            </UnitTestResult>
+          </Results>
+          <Tests>
+            <TestRecord Name="SetCommand">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2011-02-24T01:40:47</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>3</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-24T01:42:42</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>3</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-24T02:13:35</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>3</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-24T02:14:19</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>3</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-24T02:32:28</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>3</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-24T02:38:45</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>3</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-24T02:50:28</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>3</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-24T02:53:01</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>3</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-24T02:56:01</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>3</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-24T02:56:58</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>3</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+              </Results>
+              <Tests>
+                <TestRecord Name="Test1">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T01:40:47</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.Data.DataException : The 'ConnectionString' key does not exist in the configuration file.</Message>
+                      <StackTrace>  at BLToolkit.Data.DbManager.GetConnectionString (System.String configurationString) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..ctor (System.String configurationString) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..ctor () [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) BLToolkit.Data.DbManager:.ctor ()
+  at HowTo.Data.SetCommand.GetPersonList () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:20 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:31 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T01:42:42</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToList[Person] (IDataReader reader, IList`1 list, System.Object[] parameters) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager.ExecuteListInternal[Person] (IList`1 list, System.Object[] parameters) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager.ExecuteList[Person] () [0x00000] in &lt;filename unknown&gt;:0 
+  at HowTo.Data.SetCommand.GetPersonList () [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:23 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;&gt;c__DisplayClass1.&lt;.ctor&gt;b__0 (Int32 _) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:13:35</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToList[Person] (IDataReader reader, IList`1 list, System.Object[] parameters) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2969 
+  at BLToolkit.Data.DbManager.ExecuteListInternal[Person] (IList`1 list, System.Object[] parameters) [0x00027] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3805 
+  at BLToolkit.Data.DbManager.ExecuteList[Person] () [0x00006] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3832 
+  at HowTo.Data.SetCommand.GetPersonList () [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:23 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Using appSettings\BLToolkit.DataProviders is obsolete. Consider using bltoolkit configuration section instead.
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:14:19</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToList[Person] (IDataReader reader, IList`1 list, System.Object[] parameters) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2969 
+  at BLToolkit.Data.DbManager.ExecuteListInternal[Person] (IList`1 list, System.Object[] parameters) [0x00027] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3805 
+  at BLToolkit.Data.DbManager.ExecuteList[Person] () [0x00006] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3832 
+  at HowTo.Data.SetCommand.GetPersonList () [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:23 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Using appSettings\BLToolkit.DataProviders is obsolete. Consider using bltoolkit configuration section instead.
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:32:28</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>System.TypeInitializationException : An exception was thrown by the type initializer for BLToolkit.Data.DbManager
+  ----&gt; System.TypeLoadException : Could not load type 'BLToolkit.Data.DataProvider.SQLiteDataProvider, IdeoDict.Playground'.</Message>
+                      <StackTrace>  at HowTo.Data.SetCommand.GetPersonList () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:21 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--TypeLoadException
+  at (wrapper managed-to-native) System.Type:internal_from_name (string,bool,bool)
+  at System.Type.GetType (System.String typeName, Boolean throwOnError) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..cctor () [0x00211] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.Config.cs:292 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Using appSettings\BLToolkit.DataProviders is obsolete. Consider using bltoolkit configuration section instead.
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:38:45</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>System.TypeInitializationException : An exception was thrown by the type initializer for BLToolkit.Data.DbManager
+  ----&gt; System.TypeLoadException : Could not load type 'BLToolkit.Data.DataProvider.SQLiteDataProvider, IdeoDict.Playground'.</Message>
+                      <StackTrace>  at HowTo.Data.SetCommand.GetPersonList () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:21 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--TypeLoadException
+  at (wrapper managed-to-native) System.Type:internal_from_name (string,bool,bool)
+  at System.Type.GetType (System.String typeName, Boolean throwOnError) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..cctor () [0x00211] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.Config.cs:292 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Using appSettings\BLToolkit.DataProviders is obsolete. Consider using bltoolkit configuration section instead.
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:50:28</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToList[Person] (IDataReader reader, IList`1 list, System.Object[] parameters) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2969 
+  at BLToolkit.Data.DbManager.ExecuteListInternal[Person] (IList`1 list, System.Object[] parameters) [0x00027] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3805 
+  at BLToolkit.Data.DbManager.ExecuteList[Person] () [0x00006] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3832 
+  at HowTo.Data.SetCommand.GetPersonList () [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:23 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Using appSettings\BLToolkit.DataProviders is obsolete. Consider using bltoolkit configuration section instead.
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:53:01</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToList[Person] (IDataReader reader, IList`1 list, System.Object[] parameters) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2969 
+  at BLToolkit.Data.DbManager.ExecuteListInternal[Person] (IList`1 list, System.Object[] parameters) [0x00027] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3805 
+  at BLToolkit.Data.DbManager.ExecuteList[Person] () [0x00006] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3832 
+  at HowTo.Data.SetCommand.GetPersonList () [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:23 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Using appSettings\BLToolkit.DataProviders is obsolete. Consider using bltoolkit configuration section instead.
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:56:01</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToList[Person] (IDataReader reader, IList`1 list, System.Object[] parameters) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2969 
+  at BLToolkit.Data.DbManager.ExecuteListInternal[Person] (IList`1 list, System.Object[] parameters) [0x00027] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3805 
+  at BLToolkit.Data.DbManager.ExecuteList[Person] () [0x00006] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3832 
+  at HowTo.Data.SetCommand.GetPersonList () [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:23 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Using appSettings\BLToolkit.DataProviders is obsolete. Consider using bltoolkit configuration section instead.
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:56:58</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToList[Person] (IDataReader reader, IList`1 list, System.Object[] parameters) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2969 
+  at BLToolkit.Data.DbManager.ExecuteListInternal[Person] (IList`1 list, System.Object[] parameters) [0x00027] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3805 
+  at BLToolkit.Data.DbManager.ExecuteList[Person] () [0x00006] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3832 
+  at HowTo.Data.SetCommand.GetPersonList () [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:23 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Using appSettings\BLToolkit.DataProviders is obsolete. Consider using bltoolkit configuration section instead.
+</ConsoleError>
+                    </UnitTestResult>
+                  </Results>
+                  <Tests />
+                </TestRecord>
+                <TestRecord Name="Test2">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T01:40:47</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.Data.DataException : The 'ConnectionString' key does not exist in the configuration file.</Message>
+                      <StackTrace>  at BLToolkit.Data.DbManager.GetConnectionString (System.String configurationString) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..ctor (System.String configurationString) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..ctor () [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) BLToolkit.Data.DbManager:.ctor ()
+  at HowTo.Data.SetCommand.GetPersonByID (Int32 id) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:40 
+  at HowTo.Data.SetCommand.Test2 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:52 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T01:42:42</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToObject (IDataReader dataReader, System.Type destObjectType, System.Object[] parameters) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager.ExecuteObjectInternal (System.Object entity, System.Type type, System.Object[] parameters) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager.ExecuteObject[Person] () [0x00000] in &lt;filename unknown&gt;:0 
+  at HowTo.Data.SetCommand.GetPersonByID (Int32 id) [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:43 
+  at HowTo.Data.SetCommand.Test2 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;&gt;c__DisplayClass1.&lt;.ctor&gt;b__0 (Int32 _) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:13:35</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToObject (IDataReader dataReader, System.Type destObjectType, System.Object[] parameters) [0x00021] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2219 
+  at BLToolkit.Data.DbManager.ExecuteObjectInternal (System.Object entity, System.Type type, System.Object[] parameters) [0x0001f] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3699 
+  at BLToolkit.Data.DbManager.ExecuteObject[Person] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3763 
+  at HowTo.Data.SetCommand.GetPersonByID (Int32 id) [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:43 
+  at HowTo.Data.SetCommand.Test2 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:14:19</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToObject (IDataReader dataReader, System.Type destObjectType, System.Object[] parameters) [0x00021] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2219 
+  at BLToolkit.Data.DbManager.ExecuteObjectInternal (System.Object entity, System.Type type, System.Object[] parameters) [0x0001f] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3699 
+  at BLToolkit.Data.DbManager.ExecuteObject[Person] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3763 
+  at HowTo.Data.SetCommand.GetPersonByID (Int32 id) [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:43 
+  at HowTo.Data.SetCommand.Test2 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:32:28</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>System.TypeInitializationException : An exception was thrown by the type initializer for BLToolkit.Data.DbManager
+  ----&gt; System.TypeLoadException : Could not load type 'BLToolkit.Data.DataProvider.SQLiteDataProvider, IdeoDict.Playground'.</Message>
+                      <StackTrace>  at HowTo.Data.SetCommand.GetPersonList () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:21 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--TypeLoadException
+  at (wrapper managed-to-native) System.Type:internal_from_name (string,bool,bool)
+  at System.Type.GetType (System.String typeName, Boolean throwOnError) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..cctor () [0x00211] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.Config.cs:292 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:38:45</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>System.TypeInitializationException : An exception was thrown by the type initializer for BLToolkit.Data.DbManager
+  ----&gt; System.TypeLoadException : Could not load type 'BLToolkit.Data.DataProvider.SQLiteDataProvider, IdeoDict.Playground'.</Message>
+                      <StackTrace>  at HowTo.Data.SetCommand.GetPersonList () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:21 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--TypeLoadException
+  at (wrapper managed-to-native) System.Type:internal_from_name (string,bool,bool)
+  at System.Type.GetType (System.String typeName, Boolean throwOnError) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..cctor () [0x00211] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.Config.cs:292 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:50:28</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToObject (IDataReader dataReader, System.Type destObjectType, System.Object[] parameters) [0x00021] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2219 
+  at BLToolkit.Data.DbManager.ExecuteObjectInternal (System.Object entity, System.Type type, System.Object[] parameters) [0x0001f] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3699 
+  at BLToolkit.Data.DbManager.ExecuteObject[Person] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3763 
+  at HowTo.Data.SetCommand.GetPersonByID (Int32 id) [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:43 
+  at HowTo.Data.SetCommand.Test2 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:53:01</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToObject (IDataReader dataReader, System.Type destObjectType, System.Object[] parameters) [0x00021] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2219 
+  at BLToolkit.Data.DbManager.ExecuteObjectInternal (System.Object entity, System.Type type, System.Object[] parameters) [0x0001f] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3699 
+  at BLToolkit.Data.DbManager.ExecuteObject[Person] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3763 
+  at HowTo.Data.SetCommand.GetPersonByID (Int32 id) [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:43 
+  at HowTo.Data.SetCommand.Test2 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:56:01</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToObject (IDataReader dataReader, System.Type destObjectType, System.Object[] parameters) [0x00021] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2219 
+  at BLToolkit.Data.DbManager.ExecuteObjectInternal (System.Object entity, System.Type type, System.Object[] parameters) [0x0001f] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3699 
+  at BLToolkit.Data.DbManager.ExecuteObject[Person] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3763 
+  at HowTo.Data.SetCommand.GetPersonByID (Int32 id) [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:43 
+  at HowTo.Data.SetCommand.Test2 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:56:58</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.TypeBuilder.TypeBuilderException : Could not build the 'HowTo.DataAccess.Person' type.
+  ----&gt; System.ArgumentException : The Name of AssemblyName cannot start with whitespace, or contain '/', '\'  or ':'.</Message>
+                      <StackTrace>  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00196] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:277 
+  at BLToolkit.Reflection.TypeAccessor.GetAccessor (System.Type originalType) [0x00092] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/TypeAccessor.cs:265 
+  at BLToolkit.Mapping.ObjectMapper.Init (BLToolkit.Mapping.MappingSchema mappingSchema, System.Type type) [0x00011] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/ObjectMapper.cs:241 
+  at BLToolkit.Mapping.MappingSchema.GetObjectMapper (System.Type type) [0x0008b] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:80 
+  at BLToolkit.Mapping.MappingSchema.MapDataReaderToObject (IDataReader dataReader, System.Type destObjectType, System.Object[] parameters) [0x00021] in /home/blankego/lib/bltoolkitsrc/Source/Mapping/MappingSchema.cs:2219 
+  at BLToolkit.Data.DbManager.ExecuteObjectInternal (System.Object entity, System.Type type, System.Object[] parameters) [0x0001f] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3699 
+  at BLToolkit.Data.DbManager.ExecuteObject[Person] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:3763 
+  at HowTo.Data.SetCommand.GetPersonByID (Int32 id) [0x0000c] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:43 
+  at HowTo.Data.SetCommand.Test2 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:53 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--ArgumentException
+  at System.AppDomain.ValidateAssemblyName (System.String name) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir, System.Security.Policy.Evidence evidence, System.Security.PermissionSet requiredPermissions, System.Security.PermissionSet optionalPermissions, System.Security.PermissionSet refusedPermissions, Boolean isSynchronized) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string,System.Security.Policy.Evidence,System.Security.PermissionSet,System.Security.PermissionSet,System.Security.PermissionSet,bool)
+  at System.AppDomain.DefineDynamicAssembly (System.Reflection.AssemblyName name, AssemblyBuilderAccess access, System.String dir) [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) System.AppDomain:DefineDynamicAssembly (System.Reflection.AssemblyName,System.Reflection.Emit.AssemblyBuilderAccess,string)
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper+&lt;AssemblyBuilderHelper&gt;c__AnonStorey13.&lt;&gt;m__15 (Int32 _) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:100 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_AssemblyBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:143 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.get_ModuleBuilder () [0x0000b] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:166 
+  at BLToolkit.Reflection.Emit.AssemblyBuilderHelper.DefineType (System.String name, System.Type parent) [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Reflection/Emit/AssemblyBuilderHelper.cs:250 
+  at BLToolkit.TypeBuilder.Builders.TypeAccessorBuilder.Build (BLToolkit.Reflection.Emit.AssemblyBuilderHelper assemblyBuilder) [0x000c6] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/Builders/TypeAccessorBuilder.cs:85 
+  at BLToolkit.TypeBuilder.TypeFactory.GetType (System.Object hashKey, System.Type sourceType, ITypeBuilder typeBuilder) [0x00154] in /home/blankego/lib/bltoolkitsrc/Source/TypeBuilder/TypeFactory.cs:258 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                  <Tests />
+                </TestRecord>
+                <TestRecord Name="Test3">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T01:40:47</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.Data.DataException : The 'ConnectionString' key does not exist in the configuration file.</Message>
+                      <StackTrace>  at BLToolkit.Data.DbManager.GetConnectionString (System.String configurationString) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..ctor (System.String configurationString) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..ctor () [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) BLToolkit.Data.DbManager:.ctor ()
+  at HowTo.Data.SetCommand.Test3 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:114 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T01:42:42</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.Data.DataException : SQLite error
+near "SELECT": syntax error
+  ----&gt; System.Data.SQLite.SQLiteException : SQLite error
+near "SELECT": syntax error</Message>
+                      <StackTrace>  at BLToolkit.Data.DbManager.OnOperationException (OperationType op, BLToolkit.Data.DataException ex) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager.HandleOperationException (OperationType op, System.Exception ex) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager.ExecuteOperation[IDataReader] (OperationType operationType, System.Func`1 operation) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager.ExecuteReaderInternal (CommandBehavior commandBehavior) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager.ExecuteScalar () [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager.ExecuteScalar[Int32] () [0x00000] in &lt;filename unknown&gt;:0 
+  at (wrapper remoting-invoke-with-check) BLToolkit.Data.DbManager:ExecuteScalar ()
+  at HowTo.Data.SetCommand.CreatePerson (BLToolkit.Data.DbManager db) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:70 
+  at HowTo.Data.SetCommand.Test3 () [0x00013] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:121 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--SQLiteException
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:13:35</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.Data.DataException : SQLite error
+near "SELECT": syntax error
+  ----&gt; System.Data.SQLite.SQLiteException : SQLite error
+near "SELECT": syntax error</Message>
+                      <StackTrace>  at BLToolkit.Data.DbManager.OnOperationException (OperationType op, BLToolkit.Data.DataException ex) [0x00035] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:577 
+  at BLToolkit.Data.DbManager.HandleOperationException (OperationType op, System.Exception ex) [0x00032] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4342 
+  at BLToolkit.Data.DbManager.ExecuteOperation[IDataReader] (OperationType operationType, System.Func`1 operation) [0x00045] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4328 
+  at BLToolkit.Data.DbManager.ExecuteReaderInternal (CommandBehavior commandBehavior) [0x00014] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:591 
+  at BLToolkit.Data.DbManager.ExecuteScalar () [0x00013] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2790 
+  at BLToolkit.Data.DbManager.ExecuteScalar[Int32] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2933 
+  at (wrapper remoting-invoke-with-check) BLToolkit.Data.DbManager:ExecuteScalar ()
+  at HowTo.Data.SetCommand.CreatePerson (BLToolkit.Data.DbManager db) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:70 
+  at HowTo.Data.SetCommand.Test3 () [0x00013] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:121 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--SQLiteException
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Operation 'ExecuteReader' throws exception 'BLToolkit.Data.DataException: SQLite error
+near "SELECT": syntax error ---&gt; System.Data.SQLite.SQLiteException: SQLite error
+near "SELECT": syntax error
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 
+  --- End of inner exception stack trace ---'
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:14:19</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.Data.DataException : SQLite error
+near "SELECT": syntax error
+  ----&gt; System.Data.SQLite.SQLiteException : SQLite error
+near "SELECT": syntax error</Message>
+                      <StackTrace>  at BLToolkit.Data.DbManager.OnOperationException (OperationType op, BLToolkit.Data.DataException ex) [0x00035] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:577 
+  at BLToolkit.Data.DbManager.HandleOperationException (OperationType op, System.Exception ex) [0x00032] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4342 
+  at BLToolkit.Data.DbManager.ExecuteOperation[IDataReader] (OperationType operationType, System.Func`1 operation) [0x00045] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4328 
+  at BLToolkit.Data.DbManager.ExecuteReaderInternal (CommandBehavior commandBehavior) [0x00014] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:591 
+  at BLToolkit.Data.DbManager.ExecuteScalar () [0x00013] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2790 
+  at BLToolkit.Data.DbManager.ExecuteScalar[Int32] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2933 
+  at (wrapper remoting-invoke-with-check) BLToolkit.Data.DbManager:ExecuteScalar ()
+  at HowTo.Data.SetCommand.CreatePerson (BLToolkit.Data.DbManager db) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:70 
+  at HowTo.Data.SetCommand.Test3 () [0x00013] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:121 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--SQLiteException
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Operation 'ExecuteReader' throws exception 'BLToolkit.Data.DataException: SQLite error
+near "SELECT": syntax error ---&gt; System.Data.SQLite.SQLiteException: SQLite error
+near "SELECT": syntax error
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 
+  --- End of inner exception stack trace ---'
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:32:28</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>System.TypeInitializationException : An exception was thrown by the type initializer for BLToolkit.Data.DbManager
+  ----&gt; System.TypeLoadException : Could not load type 'BLToolkit.Data.DataProvider.SQLiteDataProvider, IdeoDict.Playground'.</Message>
+                      <StackTrace>  at HowTo.Data.SetCommand.GetPersonList () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:21 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--TypeLoadException
+  at (wrapper managed-to-native) System.Type:internal_from_name (string,bool,bool)
+  at System.Type.GetType (System.String typeName, Boolean throwOnError) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..cctor () [0x00211] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.Config.cs:292 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:38:45</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>System.TypeInitializationException : An exception was thrown by the type initializer for BLToolkit.Data.DbManager
+  ----&gt; System.TypeLoadException : Could not load type 'BLToolkit.Data.DataProvider.SQLiteDataProvider, IdeoDict.Playground'.</Message>
+                      <StackTrace>  at HowTo.Data.SetCommand.GetPersonList () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:21 
+  at HowTo.Data.SetCommand.Test1 () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:32 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--TypeLoadException
+  at (wrapper managed-to-native) System.Type:internal_from_name (string,bool,bool)
+  at System.Type.GetType (System.String typeName, Boolean throwOnError) [0x00000] in &lt;filename unknown&gt;:0 
+  at BLToolkit.Data.DbManager..cctor () [0x00211] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.Config.cs:292 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:50:28</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.Data.DataException : SQLite error
+near "SELECT": syntax error
+  ----&gt; System.Data.SQLite.SQLiteException : SQLite error
+near "SELECT": syntax error</Message>
+                      <StackTrace>  at BLToolkit.Data.DbManager.OnOperationException (OperationType op, BLToolkit.Data.DataException ex) [0x00035] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:577 
+  at BLToolkit.Data.DbManager.HandleOperationException (OperationType op, System.Exception ex) [0x00032] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4342 
+  at BLToolkit.Data.DbManager.ExecuteOperation[IDataReader] (OperationType operationType, System.Func`1 operation) [0x00045] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4328 
+  at BLToolkit.Data.DbManager.ExecuteReaderInternal (CommandBehavior commandBehavior) [0x00014] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:591 
+  at BLToolkit.Data.DbManager.ExecuteScalar () [0x00013] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2790 
+  at BLToolkit.Data.DbManager.ExecuteScalar[Int32] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2933 
+  at (wrapper remoting-invoke-with-check) BLToolkit.Data.DbManager:ExecuteScalar ()
+  at HowTo.Data.SetCommand.CreatePerson (BLToolkit.Data.DbManager db) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:70 
+  at HowTo.Data.SetCommand.Test3 () [0x00013] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:121 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--SQLiteException
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Operation 'ExecuteReader' throws exception 'BLToolkit.Data.DataException: SQLite error
+near "SELECT": syntax error ---&gt; System.Data.SQLite.SQLiteException: SQLite error
+near "SELECT": syntax error
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 
+  --- End of inner exception stack trace ---'
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:53:01</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.Data.DataException : SQLite error
+near "SELECT": syntax error
+  ----&gt; System.Data.SQLite.SQLiteException : SQLite error
+near "SELECT": syntax error</Message>
+                      <StackTrace>  at BLToolkit.Data.DbManager.OnOperationException (OperationType op, BLToolkit.Data.DataException ex) [0x00035] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:577 
+  at BLToolkit.Data.DbManager.HandleOperationException (OperationType op, System.Exception ex) [0x00032] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4342 
+  at BLToolkit.Data.DbManager.ExecuteOperation[IDataReader] (OperationType operationType, System.Func`1 operation) [0x00045] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4328 
+  at BLToolkit.Data.DbManager.ExecuteReaderInternal (CommandBehavior commandBehavior) [0x00014] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:591 
+  at BLToolkit.Data.DbManager.ExecuteScalar () [0x00013] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2790 
+  at BLToolkit.Data.DbManager.ExecuteScalar[Int32] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2933 
+  at (wrapper remoting-invoke-with-check) BLToolkit.Data.DbManager:ExecuteScalar ()
+  at HowTo.Data.SetCommand.CreatePerson (BLToolkit.Data.DbManager db) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:70 
+  at HowTo.Data.SetCommand.Test3 () [0x00013] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:121 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--SQLiteException
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Operation 'ExecuteReader' throws exception 'BLToolkit.Data.DataException: SQLite error
+near "SELECT": syntax error ---&gt; System.Data.SQLite.SQLiteException: SQLite error
+near "SELECT": syntax error
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 
+  --- End of inner exception stack trace ---'
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:56:01</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.Data.DataException : SQLite error
+near "SELECT": syntax error
+  ----&gt; System.Data.SQLite.SQLiteException : SQLite error
+near "SELECT": syntax error</Message>
+                      <StackTrace>  at BLToolkit.Data.DbManager.OnOperationException (OperationType op, BLToolkit.Data.DataException ex) [0x00035] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:577 
+  at BLToolkit.Data.DbManager.HandleOperationException (OperationType op, System.Exception ex) [0x00032] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4342 
+  at BLToolkit.Data.DbManager.ExecuteOperation[IDataReader] (OperationType operationType, System.Func`1 operation) [0x00045] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4328 
+  at BLToolkit.Data.DbManager.ExecuteReaderInternal (CommandBehavior commandBehavior) [0x00014] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:591 
+  at BLToolkit.Data.DbManager.ExecuteScalar () [0x00013] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2790 
+  at BLToolkit.Data.DbManager.ExecuteScalar[Int32] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2933 
+  at (wrapper remoting-invoke-with-check) BLToolkit.Data.DbManager:ExecuteScalar ()
+  at HowTo.Data.SetCommand.CreatePerson (BLToolkit.Data.DbManager db) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:70 
+  at HowTo.Data.SetCommand.Test3 () [0x00013] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:121 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--SQLiteException
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Operation 'ExecuteReader' throws exception 'BLToolkit.Data.DataException: SQLite error
+near "SELECT": syntax error ---&gt; System.Data.SQLite.SQLiteException: SQLite error
+near "SELECT": syntax error
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 
+  --- End of inner exception stack trace ---'
+</ConsoleError>
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-24T02:56:58</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>BLToolkit.Data.DataException : SQLite error
+near "SELECT": syntax error
+  ----&gt; System.Data.SQLite.SQLiteException : SQLite error
+near "SELECT": syntax error</Message>
+                      <StackTrace>  at BLToolkit.Data.DbManager.OnOperationException (OperationType op, BLToolkit.Data.DataException ex) [0x00035] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:577 
+  at BLToolkit.Data.DbManager.HandleOperationException (OperationType op, System.Exception ex) [0x00032] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4342 
+  at BLToolkit.Data.DbManager.ExecuteOperation[IDataReader] (OperationType operationType, System.Func`1 operation) [0x00045] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:4328 
+  at BLToolkit.Data.DbManager.ExecuteReaderInternal (CommandBehavior commandBehavior) [0x00014] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:591 
+  at BLToolkit.Data.DbManager.ExecuteScalar () [0x00013] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2790 
+  at BLToolkit.Data.DbManager.ExecuteScalar[Int32] () [0x00000] in /home/blankego/lib/bltoolkitsrc/Source/Data/DbManager.cs:2933 
+  at (wrapper remoting-invoke-with-check) BLToolkit.Data.DbManager:ExecuteScalar ()
+  at HowTo.Data.SetCommand.CreatePerson (BLToolkit.Data.DbManager db) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:70 
+  at HowTo.Data.SetCommand.Test3 () [0x00013] in /home/blankego/Projects/IdeoDict/IdeoDict.Playground/Main.cs:121 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 
+--SQLiteException
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError>DbManager: Operation 'ExecuteReader' throws exception 'BLToolkit.Data.DataException: SQLite error
+near "SELECT": syntax error ---&gt; System.Data.SQLite.SQLiteException: SQLite error
+near "SELECT": syntax error
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, UInt32 timeoutMS, System.String&amp; strRemain) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x00000] in &lt;filename unknown&gt;:0 
+  --- End of inner exception stack trace ---'
+</ConsoleError>
+                    </UnitTestResult>
+                  </Results>
+                  <Tests />
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+          </Tests>
+        </TestRecord>
+      </Tests>
+    </TestRecord>
+  </Tests>
+</TestRecord>

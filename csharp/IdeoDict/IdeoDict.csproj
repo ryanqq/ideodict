@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F6B00288-1C0E-49B4-9F23-2B0E3054AC29}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>IdeoDict</RootNamespace>
+    <AssemblyName>IdeoDict</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="Db4objects.Db4o, Version=7.4.121.14026, Culture=neutral, PublicKeyToken=6199cd4f203aa8eb">
+      <Package>db4o</Package>
+    </Reference>
+    <Reference Include="LinqBridge, Version=1.2.0.0, Culture=neutral, PublicKeyToken=c2b14eb747628076">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\lib\LinqBridge.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\lib\json.net\Bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Controller\Building\CsvBookMeta.cs" />
+    <Compile Include="Controller\Building\CsvParser.cs" />
+    <Compile Include="Controller\Building\BookImporter.cs" />
+    <Compile Include="Controller\Building\BookMeta.cs" />
+    <Compile Include="Model\BookType.cs" />
+    <Compile Include="Util\Util.cs" />
+    <Compile Include="Controller\Building\CsvDictBuilder.cs" />
+    <Compile Include="Controller\Building\MetaFactory.cs" />
+    <Compile Include="Controller\Building\BookAttributes.cs" />
+    <Compile Include="Controller\Building\IBookBuilder.cs" />
+    <Compile Include="Model\ActivatableHelper.cs" />
+    <Compile Include="Model\TrNodes\TrLeaf.cs" />
+    <Compile Include="Model\TrNodes\TrNode.cs" />
+    <Compile Include="Model\TrNodes\TrPara.cs" />
+    <Compile Include="Model\TrNodes\TrRoot.cs" />
+    <Compile Include="Model\TrNodes\TrSect.cs" />
+    <Compile Include="Model\TrNodes\TrEntry.cs" />
+    <Compile Include="Model\Indices\IdxTable.cs" />
+    <Compile Include="Model\Indices\IdxEntry.cs" />
+    <Compile Include="Model\Activatable.cs" />
+    <Compile Include="Model\Indices\IdxLink.cs" />
+    <Compile Include="Model\Query\Retriever.cs" />
+    <Compile Include="Controller\Librarian.cs" />
+    <Compile Include="Controller\BookShelf.cs" />
+    <Compile Include="Model\LookupTables\LuTable.cs" />
+    <Compile Include="Model\LookupTables\LuEntry.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Controller\" />
+    <Folder Include="Controller\Building\" />
+    <Folder Include="Util\" />
+    <Folder Include="Model\TrNodes\" />
+    <Folder Include="Model\Indices\" />
+    <Folder Include="Model\Query\" />
+    <Folder Include="Model\LookupTables\" />
+  </ItemGroup>
+</Project>

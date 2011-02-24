@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results />
+  <Tests>
+    <TestRecord Name="IdeoDict">
+      <Results />
+      <Tests>
+        <TestRecord Name="Test">
+          <Results />
+          <Tests>
+            <TestRecord Name="UtilTest">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2011-02-22T21:44:04</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-22T22:29:12</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-22T22:31:38</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-22T23:11:46</TestDate>
+                  <Status>Failure</Status>
+                  <TotalFailures>1</TotalFailures>
+                  <TotalSuccess>0</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                  <Message>Child test failed</Message>
+                </UnitTestResult>
+                <UnitTestResult>
+                  <TestDate>2011-02-22T23:12:39</TestDate>
+                  <Status>Success</Status>
+                  <TotalFailures>0</TotalFailures>
+                  <TotalSuccess>1</TotalSuccess>
+                  <TotalIgnored>0</TotalIgnored>
+                  <Time />
+                </UnitTestResult>
+              </Results>
+              <Tests>
+                <TestRecord Name="TestCase">
+                  <Results>
+                    <UnitTestResult>
+                      <TestDate>2011-02-22T21:44:04</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>System.InvalidOperationException : Operation is not valid due to the current state of the object</Message>
+                      <StackTrace>  at System.Linq.Enumerable+Futures`1[System.Object].&lt;.cctor&gt;b__d5 () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.FirstImpl[Object] (IEnumerable`1 source, System.Func`1 empty) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.First[Object] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at IdeoDict.Util.HasAttr[MediumAttribute] (System.Type t) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict/Util.cs:15 
+  at IdeoDict.Test.UtilTest.&lt;TestCase&gt;m__0 (System.Type t) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Test/UtilTest.cs:28 
+  at System.Linq.Enumerable.First[Type] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.First[Type] (IEnumerable`1 source, System.Func`2 predicate) [0x00000] in &lt;filename unknown&gt;:0 
+  at IdeoDict.Test.UtilTest.TestCase () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Test/UtilTest.cs:27 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-22T21:49:56</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>System.InvalidOperationException : Operation is not valid due to the current state of the object</Message>
+                      <StackTrace>  at System.Linq.Enumerable+Futures`1[System.Object].&lt;.cctor&gt;b__d5 () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.FirstImpl[Object] (IEnumerable`1 source, System.Func`1 empty) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.First[Object] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at IdeoDict.Util.HasAttr[MediumAttribute] (System.Type t) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict/Util.cs:15 
+  at IdeoDict.Test.UtilTest.&lt;TestCase&gt;m__0 (System.Type t) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Test/UtilTest.cs:28 
+  at System.Linq.Enumerable.First[Type] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.First[Type] (IEnumerable`1 source, System.Func`2 predicate) [0x00000] in &lt;filename unknown&gt;:0 
+  at IdeoDict.Test.UtilTest.TestCase () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Test/UtilTest.cs:27 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-22T22:29:12</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>System.InvalidOperationException : Operation is not valid due to the current state of the object</Message>
+                      <StackTrace>  at System.Linq.Enumerable+Futures`1[System.Object].&lt;.cctor&gt;b__d5 () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.FirstImpl[Object] (IEnumerable`1 source, System.Func`1 empty) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.First[Object] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at IdeoDict.Util.Ext.HasAttr[MediumAttribute] (System.Type t) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict/Util/Util.cs:16 
+  at IdeoDict.Test.UtilTest.&lt;TestCase&gt;m__0 (System.Type t) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Test/UtilTest.cs:28 
+  at System.Linq.Enumerable+&lt;&gt;c__DisplayClass17`1[System.Type].&lt;Where&gt;b__16 (System.Type item, Int32 i) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;WhereYield&gt;d__19`1[System.Type].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.FirstImpl[Type] (IEnumerable`1 source, System.Func`1 empty) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.First[Type] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.First[Type] (IEnumerable`1 source, System.Func`2 predicate) [0x00000] in &lt;filename unknown&gt;:0 
+  at IdeoDict.Test.UtilTest.TestCase () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Test/UtilTest.cs:27 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-22T22:31:38</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>System.InvalidOperationException : Operation is not valid due to the current state of the object</Message>
+                      <StackTrace>  at System.Linq.Enumerable+Futures`1[System.Object].&lt;.cctor&gt;b__d5 () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.FirstImpl[Object] (IEnumerable`1 source, System.Func`1 empty) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.First[Object] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at IdeoDict.Util.Ext.HasAttr[MediumAttribute] (System.Type t) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict/Util/Util.cs:16 
+  at IdeoDict.Test.UtilTest.&lt;TestCase&gt;m__0 (System.Type t) [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Test/UtilTest.cs:28 
+  at System.Linq.Enumerable+&lt;&gt;c__DisplayClass17`1[System.Type].&lt;Where&gt;b__16 (System.Type item, Int32 i) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable+&lt;WhereYield&gt;d__19`1[System.Type].MoveNext () [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.FirstImpl[Type] (IEnumerable`1 source, System.Func`1 empty) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.First[Type] (IEnumerable`1 source) [0x00000] in &lt;filename unknown&gt;:0 
+  at System.Linq.Enumerable.First[Type] (IEnumerable`1 source, System.Func`2 predicate) [0x00000] in &lt;filename unknown&gt;:0 
+  at IdeoDict.Test.UtilTest.TestCase () [0x00000] in /home/blankego/Projects/IdeoDict/IdeoDict.Test/UtilTest.cs:27 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-22T23:11:46</TestDate>
+                      <Status>Failure</Status>
+                      <TotalFailures>1</TotalFailures>
+                      <TotalSuccess>0</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>  Expected: &lt;Book&gt;
+  But was:  Book
+</Message>
+                      <StackTrace>  at NUnit.Framework.Assert.That (System.Object actual, NUnit.Framework.Constraints.Constraint constraint, System.String message, System.Object[] args) [0x00000] in &lt;filename unknown&gt;:0 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual, System.String message, System.Object[] args) [0x00000] in &lt;filename unknown&gt;:0 
+  at NUnit.Framework.Assert.AreEqual (System.Object expected, System.Object actual) [0x00000] in &lt;filename unknown&gt;:0 
+  at IdeoDict.Test.UtilTest.TestCase () [0x00078] in /home/blankego/Projects/IdeoDict/IdeoDict.Test/UtilTest.cs:35 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke (object,object[],System.Exception&amp;)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00000] in &lt;filename unknown&gt;:0 </StackTrace>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                    <UnitTestResult>
+                      <TestDate>2011-02-22T23:12:39</TestDate>
+                      <Status>Success</Status>
+                      <TotalFailures>0</TotalFailures>
+                      <TotalSuccess>1</TotalSuccess>
+                      <TotalIgnored>0</TotalIgnored>
+                      <Time />
+                      <Message>Test successful
+
+Execution time: 0.05ms</Message>
+                      <ConsoleOutput />
+                      <ConsoleError />
+                    </UnitTestResult>
+                  </Results>
+                  <Tests />
+                </TestRecord>
+              </Tests>
+            </TestRecord>
+          </Tests>
+        </TestRecord>
+      </Tests>
+    </TestRecord>
+  </Tests>
+</TestRecord>

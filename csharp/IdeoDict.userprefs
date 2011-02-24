@@ -1,0 +1,63 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdeoDict/Model/TrNodes/TrEntry.cs" ctype="Workbench">
+    <Files>
+      <File FileName="../../lib/bltoolkitsrc/Source/Data/DataProvider/SQLiteDataProvider.cs" Line="1" Column="1" />
+      <File FileName="IdeoDict/Model/TrNodes/TrEntry.cs" Line="7" Column="31" />
+      <File FileName="IdeoDict/Model/Indices/IdxEntry.cs" Line="24" Column="4" />
+      <File FileName="IdeoDict/Model/TrNodes/TrNode.cs" Line="73" Column="1" />
+      <File FileName="IdeoDict/Model/Indices/IdxTable.cs" Line="30" Column="16" />
+      <File FileName="IdeoDict/Model/Indices/IdxLink.cs" Line="12" Column="3" />
+      <File FileName="IdeoDict/Model/Query/Retriever.cs" Line="7" Column="3" />
+      <File FileName="IdeoDict/Model/TrNodes/TrRoot.cs" Line="17" Column="3" />
+      <File FileName="IdeoDict/Controller/Librarian.cs" Line="30" Column="4" />
+      <File FileName="Assembly Browser" />
+      <File FileName="IdeoDict/Controller/Building/BookImporter.cs" Line="19" Column="15" />
+      <File FileName="IdeoDict/Model/TrNodes/TrSect.cs" Line="11" Column="2" />
+      <File FileName="IdeoDict/Controller/BookShelf.cs" Line="24" Column="43" />
+      <File FileName="IdeoDict/Model/LookupTables/LuEntry.cs" Line="20" Column="4" />
+      <File FileName="IdeoDict/Model/LookupTables/LuTable.cs" Line="12" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="Empty" expanded="True" />
+          <Node name="IdeoDict" expanded="True">
+            <Node name="Controller" expanded="True">
+              <Node name="Building" expanded="True" />
+            </Node>
+            <Node name="Model" expanded="True">
+              <Node name="Indices" expanded="True" />
+              <Node name="LookupTables" expanded="True" />
+              <Node name="Query" expanded="True" />
+              <Node name="TrNodes" expanded="True">
+                <Node name="TrEntry.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="IdeoDict.Playground" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+          <Node name="uml" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
