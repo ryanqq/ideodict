@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0A4F47FC-8EC7-4D9E-8F17-3D4F75570C5F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Unihan</RootNamespace>
+    <AssemblyName>Unihan</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="LinqBridge, Version=1.2.0.0, Culture=neutral, PublicKeyToken=c2b14eb747628076">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Asm\LinqBridge.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework, Version=2.4.7.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77">
+      <Package>nunit</Package>
+    </Reference>
+    <Reference Include="Test, Version=1.0.4090.38444, Culture=neutral, PublicKeyToken=null">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Test\Test\bin\Release\Test.exe</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip.Reduced, Version=1.9.1.5, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Asm\Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Han.cs" />
+    <Compile Include="Uni.cs" />
+    <Compile Include="CodePoint.cs" />
+    <Compile Include="Radical.cs" />
+    <Compile Include="HEntry.cs" />
+    <Compile Include="Mandarin.cs" />
+    <Compile Include="Tone.cs" />
+    <Compile Include="ToneGroup.cs" />
+    <Compile Include="Transcription.cs" />
+    <Compile Include="Syllable.cs" />
+    <Compile Include="Syllabic\Coda.cs" />
+    <Compile Include="Syllabic\Phoneme.cs" />
+    <Compile Include="Utils\BiDictionary.cs" />
+    <Compile Include="IPA\Ipa.cs" />
+    <Compile Include="IPA\IpaEnums\IpaCategory.cs" />
+    <Compile Include="IPA\IpaEnums\IpaGrapheme.cs" />
+    <Compile Include="IPA\IpaEnums\IpaDiacritic.cs" />
+    <Compile Include="IPA\IpaEnums\IpaLength.cs" />
+    <Compile Include="IPA\IpaEnums\IpaSuprasegmental.cs" />
+    <Compile Include="IPA\IpaEnums\IpaTone.cs" />
+    <Compile Include="Tests\UnihanTest.cs" />
+    <Compile Include="Unicode.cs" />
+    <Compile Include="Utils\IntSpan.cs" />
+    <Compile Include="UniBlock.cs" />
+    <Compile Include="UniExt.cs" />
+    <Compile Include="HData.cs" />
+    <Compile Include="IHanIndex.cs" />
+    <Compile Include="KangxiGroup.cs" />
+    <Compile Include="HEntryList.cs" />
+    <Compile Include="HanSyllable.cs" />
+    <Compile Include="IPA\Grapheme.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <None Include="RadicalLookup.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Syllabic\" />
+    <Folder Include="IPA\" />
+    <Folder Include="Utils\" />
+    <Folder Include="IPA\GraphemeClasses\" />
+    <Folder Include="IPA\IpaEnums\" />
+    <Folder Include="Tests\" />
+  </ItemGroup>
+</Project>
