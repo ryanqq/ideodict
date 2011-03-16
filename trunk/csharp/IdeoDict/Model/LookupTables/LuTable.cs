@@ -8,7 +8,7 @@ namespace IdeoDict
 		List<string> _colNames = new List<string>();
 		public string Name{get;set;}
 		
-		public List<string> ColNames{get;}
+		public List<string> ColNames{get{return _colNames;}}
 		
 		public TrRoot Book {get;set;}
 		

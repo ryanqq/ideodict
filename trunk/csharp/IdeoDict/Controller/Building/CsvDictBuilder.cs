@@ -12,23 +12,29 @@ namespace IdeoDict.Controller.Building{
 		List<string> _cols;
 		TrRoot _dict;
 		TrNode _node;
+		List<string> _segment;
 		CsvBookMeta _meta;
 		#region IBookBuilder implementation
 		public void Build ()
 		{
-			
-			_dict = new TrRoot();
-			Db.Store(_dict);
-			_dict.Label = _meta.Title;
-			_dict.Type = _meta.Type;
-			CsvParser parser = new CsvParser(_meta.File);
-			_cols = parser.Columns;
-			foreach(var line in parser){
-				
-				MakeTocPath(line.GetRange(_meta.TocCols.Start,_meta.TocCols.Count));
-				MakeEntry(line.GetRange(_meta.BodyCols.Start,_meta.BodyCols.Count));
-				
-			}
+//			
+//			_dict = new TrRoot();
+//			Db.Store(_dict);
+//			_dict.Label = _meta.Title;
+//			_dict.Type = _meta.Type;
+//			CsvParser parser = new CsvParser(_meta.File);
+//			_cols = parser.Columns;
+//			
+//			Action<int,int> job = delegate{};
+//			if(_meta.TocCols != null)jobs+=MakeTocPath;
+//			if(_meta.BodyCols != null)job+= MakeEntry;
+//			//TODO
+//			foreach(var line in parser){
+//				
+//				MakeTocPath(line.GetRange(_meta.TocCols.Start,_meta.TocCols.Count));
+//				MakeEntry(line.GetRange(_meta.BodyCols.Start,_meta.BodyCols.Count));
+//				
+//			}
 		}
 		void MakeTocPath(List<string> sect)
 		{

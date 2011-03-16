@@ -39,7 +39,7 @@ namespace IdeoDict
 		public LuEntry(LuTable lutbl, IEnumerable<string> cols)
 		{
 			LuTable = lutbl;
-			Cols = cols;
+			Cols =  new List<string>(cols);
 		}
 	}
 }
